@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/netflicLandingPage/static/css/main.67168eb2.css",
+    "main.js": "/netflicLandingPage/static/js/main.16e3bb8a.js",
+    "static/js/453.6b45f3dc.chunk.js": "/netflicLandingPage/static/js/453.6b45f3dc.chunk.js",
+    "static/media/bg.jpg": "/netflicLandingPage/static/media/bg.6a6327437eb72b884185.jpg",
+    "static/media/one.jpg": "/netflicLandingPage/static/media/one.1d045c476f7c615e42a4.jpg",
+    "static/media/three.jpg": "/netflicLandingPage/static/media/three.e1d35629c414f8fb2cf2.jpg",
+    "static/media/four.jpg": "/netflicLandingPage/static/media/four.0e2cba5ad10b5480f6f1.jpg",
+    "static/media/logo.png": "/netflicLandingPage/static/media/logo.77ba64d8813d5a26e7e7.png",
+    "static/media/logo.svg": "/netflicLandingPage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/netflicLandingPage/index.html",
+    "main.67168eb2.css.map": "/netflicLandingPage/static/css/main.67168eb2.css.map",
+    "main.16e3bb8a.js.map": "/netflicLandingPage/static/js/main.16e3bb8a.js.map",
+    "453.6b45f3dc.chunk.js.map": "/netflicLandingPage/static/js/453.6b45f3dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67168eb2.css",
+    "static/js/main.16e3bb8a.js"
+  ]
+}
